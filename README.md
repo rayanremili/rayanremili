@@ -28,14 +28,14 @@ En parallèle de mes études, je construis des produits web utilisés par de vra
 
 <p align="center">
   <a href="https://nextstagefr.com"><img src="assets/nextstage.svg" width="49%" alt="NextStage" /></a>
-  <a href="https://rayan-remili.vercel.app"><img src="assets/hotel.svg" width="49%" alt="Hôtel Félicité Paris" /></a>
+  <a href="https://github.com/rayanremili/HotelFelicite"><img src="assets/hotel.svg" width="49%" alt="Hôtel Félicité Paris" /></a>
 </p>
 <p align="center">
-  <a href="https://rayan-remili.vercel.app"><img src="assets/tracker.svg" width="49%" alt="Suivi d'heures" /></a>
-  <a href="https://rayan-remili.vercel.app"><img src="assets/championnat.svg" width="49%" alt="Gestionnaire de championnat" /></a>
+  <a href="https://github.com/rayanremili/worklog"><img src="assets/tracker.svg" width="49%" alt="Suivi d'heures" /></a>
+  <a href="https://github.com/rayanremili/league-analyse"><img src="assets/championnat.svg" width="49%" alt="Gestionnaire de championnat" /></a>
 </p>
 
-<p align="center"><sub><a href="https://rayan-remili.vercel.app">Voir tous mes projets sur mon portfolio →</a></sub></p>
+<p align="center"><sub><a href="https://nextstagefr.com">nextstagefr.com</a> · <a href="https://github.com/rayanremili?tab=repositories">Tous mes repos</a> · <a href="https://rayan-remili.vercel.app">Portfolio</a></sub></p>
 
 <br />
 
